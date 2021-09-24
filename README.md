@@ -354,36 +354,7 @@ class RateStrategy(BackTestingEngine):
 
 
                 
-                
     
-
-# =============================================================================
-# start_date = '2016-01-01'
-# end_date = '2021-04-01'
-# 
-# rs = RateStrategy(start_date = '2016-01-01',
-#                   end_date = '2021-04-01',
-#                   code = [],
-#                   interval = 'month_first',
-#                   interval_position = 'month_first',
-#                   interval_position_pre = 12,
-#                   fund_num = 1,
-#                   rate_limit = -10)
-# =============================================================================
-
-
-# =============================================================================
-# hushen = RateStrategy(start_date = '2015-01-01',
-#                   end_date = '2021-04-01',
-#                   code = ['000051.OF'],
-#                   interval = 'month_first')
-# 
-# tongli = RateStrategy(start_date = '2015-01-01',
-#                   end_date = '2021-04-01',
-#                   code = ['000573.OF'],
-#                   interval = 'month_first')
-# 
-# =============================================================================
 
 
 
